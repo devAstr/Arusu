@@ -1,0 +1,8 @@
+.input-dark {
+    color: white;
+    background-color: #000000;
+}
+
+.input-dark::placeholder {
+    color: gray;
+}

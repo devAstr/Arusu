@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ItemType>GenericProject</ItemType>
+    <ProjectGuid>{A319B861-A9D9-473F-9B13-468C5385093C}</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Default|AnyCPU' ">
+    <OutputPath>.\</OutputPath>
+    <CustomCommands>
+      <CustomCommands>
+        <Command>
+          <type>Build</type>
+          <command>npm run build</command>
+          <workingdir>${ProjectDir}</workingdir>
+        </Command>
+      </CustomCommands>
+    </CustomCommands>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include=".env" />
+    <Content Include=".gitignore" />
+    <Content Include="app.html" />
+    <Content Include="assets\ban.png" />
+    <Content Include="assets\emoji.css" />
+    <Content Include="assets\fire.png" />
+    <Content Include="assets\general.css" />
+    <Content Include="assets\input.css" />
+    <Content Include="assets\mask.png" />
+    <Content Include="assets\modal.css" />
+    <Content Include="assets\people.png" />
+    <Content Include="assets\pneuma.png" />
+    <Content Include="assets\poster.png" />
+    <Content Include="assets\report.png" />
+    <Content Include="assets\sticker.png" />
+    <Content Include="assets\table.css" />
+    <Content Include="assets\upload.png" />
+    <Content Include="assets\vote.png" />
+    <Content Include="components\.DS_Store" />
+    <Content Include="components\Console.vue" />
+    <Content Include="components\MediaList.vue" />
+    <Content Include="components\MessageList.vue" />
+    <Content Include="components\modals\Announcement.vue" />
+    <Content Include="components\modals\CreateFBVote.vue" />
+    <Content Include="components\modals\CreateFunVote.vue" />
+    <Content Include="components\modals\CreatePneumaVote.vue" />
+    <Content Include="components\modals\CreatePosterVote.vue" />
+    <Content Include="components\modals\DoVote.vue" />
+    <Content Include="components\modals\Help.vue" />
+    <Content Include="components\modals\ImageViewer.vue" />
+    <Content Include="components\modals\Loading.vue" />
+    <Content Include="components\modals\PasteImage.vue" />
+    <Content Include="components\modals\Report.vue" />
+    <Content Include="components\modals\UserList.vue" />
+    <Content Include="components\modals\VoteHistory.vue" />
+    <Content Include="components\Navigation.vue" />
+    <Content Include="components\popover\StickerPicker.vue" />
+    <Content Include="components\popover\Uploader.vue" />
+    <Content Include="components\Poster.vue" />
+    <Content Include="components\scaffolding\PosterBase.vue" />
+    <Content Include="components\Vote.vue" />
+    <Content Include="layouts\default.vue" />
+    <Content Include="models\emojiData.json" />
+    <Content Include="nuxt.config.js" />
+    <Content Include="package-lock.json" />
+    <Content Include="package.json" />
+    <Content Include="pages\index.vue" />
+    <Content Include="pages\_.vue" />
+    <Content Include="pages\_hub\index.vue" />
+    <Content Include="pages\_hub\_slash.vue" />
+    <Content Include="static\.DS_Store" />
+    <Content Include="static\img\core.png" />
+    <Content Include="tsconfig.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Include="components\scaffolding\HubBase.ts" />
+    <TypeScriptCompile Include="components\scaffolding\ModalBase.ts" />
+    <TypeScriptCompile Include="helpers\HtmlHelper.ts" />
+    <TypeScriptCompile Include="helpers\PneumaHelper.ts" />
+    <TypeScriptCompile Include="helpers\TimeHelper.ts" />
+    <TypeScriptCompile Include="models\Emoji.ts" />
+    <TypeScriptCompile Include="models\Media.ts" />
+    <TypeScriptCompile Include="models\Message.ts" />
+    <TypeScriptCompile Include="models\Vote.ts" />
+    <TypeScriptCompile Include="plugins\Global.ts" />
+    <TypeScriptCompile Include="shim-d.ts" />
+    <TypeScriptCompile Include="store\index.ts" />
+    <TypeScriptCompile Include="store\Media.ts" />
+    <TypeScriptCompile Include="store\Message.ts" />
+    <TypeScriptCompile Include="store\Poster.ts" />
+    <TypeScriptCompile Include="store\Vote.ts" />
+    <TypeScriptCompile Include="types\Regex.ts" />
+    <TypeScriptCompile Include="types\Requests.ts" />
+    <TypeScriptCompile Include="types\Responses.ts" />
+    <TypeScriptCompile Include="types\store\index.ts" />
+    <TypeScriptCompile Include="types\store\Media.ts" />
+    <TypeScriptCompile Include="types\store\Message.ts" />
+    <TypeScriptCompile Include="types\store\Poster.ts" />
+    <TypeScriptCompile Include="types\store\Vote.ts" />
+    <TypeScriptCompile Include="types\Types.ts" />
+    <TypeScriptCompile Include="types\Vote.ts" />
+  </ItemGroup>
+</Project>

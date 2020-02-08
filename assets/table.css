@@ -1,0 +1,24 @@
+.table-dark {
+    background-color: #1c1c1e;
+    color: white;
+}
+
+.table tbody tr:nth-of-type(even) {
+    background-color: #eaf6e5
+}
+
+.table-dark tbody tr:nth-of-type(even) {
+    background-color: #023440
+}
+
+.message-table-dark tbody tr:nth-of-type(even) {
+    background-color: #023440;
+}
+
+.select-valid-dark {
+    background-color: #ffffff;
+}
+
+.select-invalid-dark {
+    background-color: #ffffff;
+}

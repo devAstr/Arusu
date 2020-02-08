@@ -1,0 +1,998 @@
+[
+  {
+    "name": "(angel2)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(angry2)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(anguished)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(astonished)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(blush)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(cheeky)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(confounded)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(confused)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(crazy)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(crazy2)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(cry2)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(devil2)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(disappointed)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(eek)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(evil)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(exhausted)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(expressionless)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(fearful)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(flushed)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(frowning)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(god)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(grin)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(grinning)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(happy)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(heart_eyes)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(hug)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(hushed)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(imp)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(injured)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(kiss_blowing)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(kissing)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(kissy)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(lips)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(lol)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(mask)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(nerdy)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(nervous)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(neutral)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(pensive)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(persevere)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(relaxed)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(relieved)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(rich)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(sad)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(scream)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(sick)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(silent)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(silly)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(sleeping)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(sleepy)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(smile2)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(smiley)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(smirk)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(sob)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(sunglasses)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(sweat_smile)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(sweat)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(think)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(triumph)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(unamused)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(weary)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(whatever)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(wink2)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(worried)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(XD)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(xoo)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(yawning)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(yum)",
+    "catalog": "表情"
+  },
+  {
+    "name": "(bear)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(bee)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(blow)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(camel)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(cat_angry)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(cat_crying)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(cat_grinning)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(cat_heart_eye)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(cat_kissing)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(cat_lol)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(cat_smiling)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(cat_weary)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(cat_wry_smile)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(chick)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(cow)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(crocodile)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(dog)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(dog2)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(frog)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(ghost)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(horse)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(iwazaru)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(kikazaru)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(koala)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(kuro)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(kuro2)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(mizaru)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(monkey)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(mouse)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(octopus)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(penguin)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(pig)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(sheep)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(snail)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(tiger)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(whale)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(wolf)",
+    "catalog": "動物"
+  },
+  {
+    "name": "(alarm)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(alien)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(ambulance)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(atm)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(balloon)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(barber)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(bomb2)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(book)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(camera)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(cherub)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(coffin)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(confetti)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(cop)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(dagger)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(darts)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(dice)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(fishing)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(flag)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(flying_money)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(game)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(heart_broken)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(heart_two)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(heart)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(joker)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(knife)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(light_bulb)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(lightning)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(magnifier)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(mail)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(no_smoking)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(package)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(palette)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(pin)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(pistol)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(police_car)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(pray)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(present)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(riding)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(robot)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(santa)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(shower)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(skull)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(smokes)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(spy)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(syringe)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(tada)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(toilet)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(underage)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(vein)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(vote)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(zzz2)",
+    "catalog": "文化"
+  },
+  {
+    "name": "(banana)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(beer)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(bread)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(burrito)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(cake)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(cherries)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(chicken_leg)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(chocolate)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(clinking)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(cocktail)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(coffee)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(cookie)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(curry)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(cutlery)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(doughnut)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(eggplant)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(fried_shrimp)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(fries)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(grapes)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(hamburger)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(honey)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(hot_dog)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(jack)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(lollipop)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(meat)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(melon)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(paella)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(Peach)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(pear)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(pepper)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(pizza)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(popcorn)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(pudding)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(ramen)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(spaghetti)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(strawberry)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(taco)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(tea)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(tomato)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(tropical)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(watermelon)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(wine)",
+    "catalog": "食物"
+  },
+  {
+    "name": "(biohazard)",
+    "catalog": "自然"
+  },
+  {
+    "name": "(boy)",
+    "catalog": "自然"
+  },
+  {
+    "name": "(clover)",
+    "catalog": "自然"
+  },
+  {
+    "name": "(crescent)",
+    "catalog": "自然"
+  },
+  {
+    "name": "(fire2)",
+    "catalog": "自然"
+  },
+  {
+    "name": "(girl)",
+    "catalog": "自然"
+  },
+  {
+    "name": "(moon)",
+    "catalog": "自然"
+  },
+  {
+    "name": "(oil)",
+    "catalog": "自然"
+  },
+  {
+    "name": "(poop)",
+    "catalog": "自然"
+  },
+  {
+    "name": "(radioactive)",
+    "catalog": "自然"
+  },
+  {
+    "name": "(rose)",
+    "catalog": "自然"
+  },
+  {
+    "name": "(sonwman)",
+    "catalog": "自然"
+  },
+  {
+    "name": "(star)",
+    "catalog": "自然"
+  },
+  {
+    "name": "(stop)",
+    "catalog": "自然"
+  },
+  {
+    "name": "(sun)",
+    "catalog": "自然"
+  },
+  {
+    "name": "(bad)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(clap)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(ear)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(fist)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(hand)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(jazz)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(like2)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(love_you)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(mouth)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(nose)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(ok)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(point_down)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(point_left)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(point_right)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(point_top)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(point_up)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(punch)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(raised)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(rude)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(splayed)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(spock)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(strong)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(tongue2)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(v)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(wave)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(writing)",
+    "catalog": "姿勢"
+  },
+  {
+    "name": "(bang)",
+    "catalog": "其他"
+  },
+  {
+    "name": "(bangbang)",
+    "catalog": "其他"
+  },
+  {
+    "name": "(circle)",
+    "catalog": "其他"
+  },
+  {
+    "name": "(clubs)",
+    "catalog": "其他"
+  },
+  {
+    "name": "(diamonds)",
+    "catalog": "其他"
+  },
+  {
+    "name": "(hearts)",
+    "catalog": "其他"
+  },
+  {
+    "name": "(hundred)",
+    "catalog": "其他"
+  },
+  {
+    "name": "(interro)",
+    "catalog": "其他"
+  },
+  {
+    "name": "(interrobang)",
+    "catalog": "其他"
+  },
+  {
+    "name": "(spades)",
+    "catalog": "其他"
+  }
+]
